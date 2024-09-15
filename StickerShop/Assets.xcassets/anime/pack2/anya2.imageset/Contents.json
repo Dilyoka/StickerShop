@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "# ·˚ ༘ 𝘼𝙣𝙮𝙖 𝙁𝙤𝙧𝙜𝙚𝙧 𝙞𝙘𝙤𝙣 🌸 !.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
